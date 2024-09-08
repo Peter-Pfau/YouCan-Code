@@ -1,7 +1,7 @@
 # Trace Azure Authentication
 ## Developer Tools
 
-- Open the Developer Tools
+- Open the Developer Tools: Ctrl-Shift-i
   
 ![Developer Tools](../assets/images/DeveloperTools.jpg)
 
@@ -24,7 +24,11 @@
 - Payload tab Form Data
 
 - Select Token id and navigate to https://JWT.io JSON Web Token decoder
-	
+
+ 	![image](https://github.com/user-attachments/assets/a3f09130-2778-4cbe-b2ab-6c32e4fa43de)
+
+  
+
 
 
 
