@@ -2,4 +2,4 @@
 ## Developer Tools
 image 
 
-assets/images/DeveloperTools.jpg
+[Developer Tools](assets/images/DeveloperTools.jpg)
