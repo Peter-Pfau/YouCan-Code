@@ -1,11 +1,8 @@
 # Trace Azure Authentication
 ## Developer Tools
-image 
 
+Open the Developer Tools
 ![Developer Tools](../assets/images/DeveloperTools.jpg)
 
 ## Test
-![Developer Tools][../assets/images/DeveloperTools.jpg]
-![Developer Tools][../assets/images/DeveloperTools.jpg]
 
-assets/images/DeveloperTools.jpg
