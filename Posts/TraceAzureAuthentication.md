@@ -1,7 +1,8 @@
 # Trace Azure Authentication
 ## Developer Tools
 
-Open the Developer Tools
+- Open the Developer Tools
+  
 ![Developer Tools](../assets/images/DeveloperTools.jpg)
 
 - Clear Browser Cache: Ctrl-Shift-Delete
@@ -12,17 +13,17 @@ Open the Developer Tools
 
 - Select the Network Tab in Dev Tools
 
-Check the Preserve log check box in the settings menu bar
+- Check the Preserve log check box in the settings menu bar
 
-Right click the header row and select URL to to display the column
+- Right click the header row and select URL to to display the column
 
-Status Column 302 redirect
+- Status Column 302 redirect
 
-Name Column callback
+- Name Column callback
 
-Payload tab Form Data
+- Payload tab Form Data
 
-Select Token id and navigate to https://JWT.io JSON Web Token decoder
+- Select Token id and navigate to https://JWT.io JSON Web Token decoder
 	
 ![image](https://github.com/user-attachments/assets/8d0bc2bf-6f01-464b-9691-570843b111bc)
 
