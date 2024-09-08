@@ -25,7 +25,7 @@
 
 - Select Token id and navigate to https://JWT.io JSON Web Token decoder
 	
-![image](https://github.com/user-attachments/assets/8d0bc2bf-6f01-464b-9691-570843b111bc)
+
 
 
 
