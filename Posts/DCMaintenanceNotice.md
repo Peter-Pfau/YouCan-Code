@@ -5,3 +5,8 @@
 <i class='fa fa-info-circle'></i> Note <br><br>
 Critical services required to support Remote Desktop Licening. <br>
 </td><td width = '15%'></td></tr></table><br><br>
+
+<div>
+  Notice
+  Domain Contoller Maintenance
+</div>
