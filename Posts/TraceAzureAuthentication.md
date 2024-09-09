@@ -6,7 +6,7 @@
 ![Developer Tools](../assets/images/DeveloperTools.jpg)
 
 - Clear Browser Cache: Ctrl-Shift-Delete
-
+{:.text-align-center}
 ![image](https://github.com/user-attachments/assets/e8a890df-7bcf-4267-9e37-1ccba9b1a151)
 
 - Open Browser Dev Tools: Ctrl-Shift-I or Right click - Inspect
