@@ -7,7 +7,7 @@
 
 - Clear Browser Cache: Ctrl-Shift-Delete
 
-![image](https://github.com/user-attachments/assets/e8a890df-7bcf-4267-9e37-1ccba9b1a151){:.text-align-center}
+![image](https://github.com/user-attachments/assets/e8a890df-7bcf-4267-9e37-1ccba9b1a151){:style="display:block; margin-left:auto; margin-right:auto"}
 
 - Open Browser Dev Tools: Ctrl-Shift-I or Right click - Inspect
 
