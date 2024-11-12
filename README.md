@@ -4,7 +4,9 @@ Code Blog
 <a href="./CodeSnippets">Code Snippets - Jekyll (remove .md)</a>
 
 <a href="https://peter-pfau.github.io/YouCan-Code/Docs/Trace%20Azure%20Authentication/TraceAzureAuthentication">Trace Azure Authentication (Full Path)</a>
+<br>
 <a href="./Docs/TraceAzureAuthentication">Trace Azure Authentication (Docs Relative Path)</a>
+<br>
 <a href="Posts/TraceAzureAuthentication">Trace Azure Authentication (Posts Relative Path)</a>
 <br>
 <br>
