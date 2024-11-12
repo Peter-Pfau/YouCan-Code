@@ -3,7 +3,7 @@
 
 - Open the Developer Tools: Ctrl-Shift-i
   
-![Developer Tools](../assets/images/DeveloperTools.jpg)
+![Developer Tools](../../../assets/images/DeveloperTools.jpg)
 
 - Clear Browser Cache: Ctrl-Shift-Delete
 
