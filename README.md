@@ -1,10 +1,11 @@
 # YouCan-Code
 Code Blog
 
-<a href="./CodeSnippets">Code Snippets - No file extension for href links in Jekyll</a>
+<a href="./CodeSnippets">Code Snippets - Jekyll (remove .md)</a>
 
-<a href="https://peter-pfau.github.io/YouCan-Code/Docs/Trace%20Azure%20Authentication/TraceAzureAuthentication">Trace Azure Authentication</a>
-
-<a href="Posts/TraceAzureAuthentication">Trace Azure Authentication</a>
+<a href="https://peter-pfau.github.io/YouCan-Code/Docs/Trace%20Azure%20Authentication/TraceAzureAuthentication">Trace Azure Authentication (Full Path)</a>
+<a href="./Docs/TraceAzureAuthentication">Trace Azure Authentication (Docs Relative Path)</a>
+<a href="Posts/TraceAzureAuthentication">Trace Azure Authentication (Posts Relative Path)</a>
+<br>
 <br>
 <a href="Posts/DCMaintenanceNotice">Domain Controller Maintenance Notice</a>
