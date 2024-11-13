@@ -1,7 +1,7 @@
 # YouCan-Code
 Code Blog
 
-<a href="./CodeSnippets">Code Snippets - Jekyll (remove .md)</a>
+<a href="./CodeSnippets">Code Snippets - (Jekyll  remove .md)</a>
 
 <a href="https://peter-pfau.github.io/YouCan-Code/Docs/Trace%20Azure%20Authentication/TraceAzureAuthentication">Trace Azure Authentication (Full Path)</a>
 <br>
