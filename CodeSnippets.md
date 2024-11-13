@@ -8,3 +8,18 @@ $hostname = $DNShostname.Hostname
 👱
 $env:username
 ```
+### Help ⛑️
+
+### Param 
+
+### Begin 🟢
+
+### Process ⚙️
+
+### Build HTML 🕸️
+
+### Footer 👣
+
+### Notes 📓
+
+### Email 📧
