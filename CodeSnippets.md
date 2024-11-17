@@ -5,12 +5,14 @@
 🖥️
 $DNShostname = [System.Net.Dns]::GetHostByName(($env:computerName))
 $hostname = $DNShostname.Hostname
+🖥️
+$env:computername
 👱
 $env:username
 ```
 ### Help ⛑️
 
-### Param 
+### Param 🦜
 
 ### Begin 🟢
 
