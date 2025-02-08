@@ -35,7 +35,7 @@
     }
     async function getIPConfig() {
                 alert("Getting IPConfig "+theDomain+ " ...")
-                const response = await fetch('Reports/IPConfig/VAC103DC1V23.v23.med.va.gov.IPConfig.txt', {
+                const response = await fetch('Reports/IPConfig/computerName.IPConfig.txt', {
                     method: 'GET',
                     headers: {
                         'Content-Type': "text/html; charset=UTF-8",
