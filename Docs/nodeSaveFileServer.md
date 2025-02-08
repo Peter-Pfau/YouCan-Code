@@ -1,6 +1,10 @@
 # Node Server Example
 ## Save a JSON File
 
+### Example
+![image](https://github.com/user-attachments/assets/1fa0127b-69d0-45c2-9515-e16b2c07dd75)
+
+
 ### index.html
 ```HTML
 <!DOCTYPE html>
