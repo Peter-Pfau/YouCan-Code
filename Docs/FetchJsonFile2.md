@@ -1,5 +1,5 @@
-# Read JSON File
-## Node js Example
+# Fetch JSON File
+## Node js Example #2
 
 ### Example
 ![image](https://github.com/user-attachments/assets/3c8a8cf9-07aa-41d4-8a68-a4ddcc595310)
