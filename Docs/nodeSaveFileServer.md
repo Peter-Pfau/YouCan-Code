@@ -2,10 +2,39 @@
 ## Node js Server Example
 
 ### Example
-![image](https://github.com/user-attachments/assets/1fa0127b-69d0-45c2-9515-e16b2c07dd75)
+![image](https://github.com/user-attachments/assets/f3cadc88-0685-4c9d-ad9a-01cb812ae05f)
 
+### CSS
+``` CSS
+        .button {
+                background-color: #04AA6D; /* Green */
+                border: none;
+                color: white;
+                padding: 16px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                transition-duration: 0.4s;
+                cursor: pointer;
+                border-radius: 12px;
+        }
+        .buttonLoad {
+            background-color: white;
+            color: black;
+            border: 2px solid #e7e7e7;
+            border-radius: 12px;
+
+        }
+
+        .buttonLoad:hover {background-color: #e7e7e7;border-radius: 12px;}
+```
 
 ### HTML 
+```HTML
+<button class="button buttonLoad" id="btnSave">Save</button>
+```
 #### index.html
 ```HTML
 <!DOCTYPE html>
