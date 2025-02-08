@@ -1,6 +1,16 @@
 # Fetch - JSON File
 ## Node js Example
 
+### HTML
+```HTML
+    <div class="box">
+        <div class="input-with-image">
+            <input type="text" id="tbDELL" value="VHAMPI3DC1.mpi.v21.med.va.gov" >
+            <img id="downArrowSelect" src="../Images/downArrowSelect.svg">
+        </div>
+    </div>
+```
+### JavaScript
 ```JavaScript
 
 <script>
