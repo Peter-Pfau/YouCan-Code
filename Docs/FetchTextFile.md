@@ -1,8 +1,23 @@
 # Fetch - Text File
 # Node JS Example
 
-```PowerShell
+### Example
+![image](https://github.com/user-attachments/assets/b25c5edd-cb72-4d14-8150-3d8c649b3035)
 
+
+### HTML
+``` HTML
+        <input type="checkbox" id="cbIPStackDell" name="cbIPStackDell" value="">IPConfig from the old Dell hardware. 
+        <span style="padding-right:3px; padding-top: 3px; display:inline-block;">
+            <img id="iIPConfig" class="manImg" src="../images/nic.jpg" style="cursor: pointer;" width=100 height=100></img>               
+            </span>
+        <!-- <span id="sIPConfig" style="cursor: pointer;"><font size=16></font></span>  -->
+        <br><br>
+        <textarea id="taIPStackDell" rows="7" cols="100" value=""></textarea>  
+```
+
+### JavaScript
+```PowerShell
 <script>
     function stripNonPrintableAndNormalize(text) {
         text = text.replace(/[^\x20-\x7F]/g, '');
