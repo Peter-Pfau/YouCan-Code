@@ -1,6 +1,9 @@
 # Fetch - JSON File
 ## Node js Example
 
+### Example
+![image](https://github.com/user-attachments/assets/f1c5a731-1ee8-4a85-8912-1769152e9a85)
+
 ### HTML
 ```HTML
     <div class="box">
