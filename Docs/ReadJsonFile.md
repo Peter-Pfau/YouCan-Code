@@ -4,9 +4,35 @@
 ### Example
 ![image](https://github.com/user-attachments/assets/3c8a8cf9-07aa-41d4-8a68-a4ddcc595310)
 
+### CSS
+```CSS
+        .button {
+                background-color: #04AA6D; /* Green */
+                border: none;
+                color: white;
+                padding: 16px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                margin: 4px 2px;
+                transition-duration: 0.4s;
+                cursor: pointer;
+                border-radius: 12px;
+        }
+        .buttonLoad {
+            background-color: white;
+            color: black;
+            border: 2px solid #e7e7e7;
+            border-radius: 12px;
+
+        }
+
+        .buttonLoad:hover {background-color: #e7e7e7;border-radius: 12px;}
+```
 ### HTML
 ```HTML
-
+<button class="button buttonLoad" id="btnLoad">Load</button>
 ```
 ### JavaScript
 
