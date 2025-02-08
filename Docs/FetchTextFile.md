@@ -1,5 +1,5 @@
 # Fetch - Text File
-# Node JS Example
+# Node js Example
 
 ### Example
 ![image](https://github.com/user-attachments/assets/048b3d52-f5f4-4144-bb10-732902a24199)
