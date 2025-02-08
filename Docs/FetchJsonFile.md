@@ -9,7 +9,7 @@
 ```HTML
     <div class="box">
         <div class="input-with-image">
-            <input type="text" id="tbDELL" value="VHAMPI3DC1.mpi.v21.med.va.gov" >
+            <input type="text" id="tbDELL" value="" >
             <img id="downArrowSelect" src="../Images/downArrowSelect.svg">
         </div>
     </div>
@@ -25,7 +25,7 @@
         modalSelectDC.style.display = 'block';
     })
     async function getDomainControllers() {
-    const response = await fetch('https://vagwnopsalert1.va.gov/ActiveDirectory-view/Reports/DomainControllerList.JSON',{
+    const response = await fetch('https://WebServerAlert1.va.gov/ActiveDirectory-view/Reports/DomainControllerList.JSON',{
             method: 'GET',
             headers: {
                     'Content-Type': "application/json; charset=UTF-8",
