@@ -2,7 +2,8 @@
 ## Node js Example
 
 ### Example
-![image](https://github.com/user-attachments/assets/f1c5a731-1ee8-4a85-8912-1769152e9a85)
+![image](https://github.com/user-attachments/assets/a8a323d4-bee2-4932-bc9b-6b64668caf24)
+
 
 ### HTML
 ```HTML
