@@ -2,7 +2,7 @@
 Code Blog <a href="https://peter-pfau.github.io/YouCan-Code/">(Jekyll Site)</a>
 
 <br>
-<a href="https://peter-pfau.github.io/YouCan-Code/FetchDiagramFlow">Fetch Diagram Flow </a>
+<a href="https://peter-pfau.github.io/YouCan-Code/Docs/FetchDiagramFlow">Fetch Diagram Flow </a>
 <br>
 <a href="https://peter-pfau.github.io/YouCan-Code/Docs/FetchJsonFile">Fetch JSON File</a>
 <br>
