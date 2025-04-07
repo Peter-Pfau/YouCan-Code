@@ -1,6 +1,5 @@
 # Fetch Request Diagaram Flow
-![image](https://github.com/user-attachments/assets/205fb949-3d0d-4b90-a7ca-b65ef30eb4c0)
-
+![image](https://github.com/user-attachments/assets/fcb20116-f8f1-41bb-8bdb-1c70d46d1387)
 
 ```
 index.html
@@ -99,6 +98,8 @@ Here is the typical order of execution with `defer`:
 
 This is especially useful when dealing with JavaScript that needs to interact with or manipulate the DOM, as it avoids errors that can occur if the script runs before the DOM is fully loaded.
 
+
+![image](https://github.com/user-attachments/assets/205fb949-3d0d-4b90-a7ca-b65ef30eb4c0)
 
 
 
