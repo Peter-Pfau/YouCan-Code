@@ -99,7 +99,6 @@ Here is the typical order of execution with `defer`:
 
 This is especially useful when dealing with JavaScript that needs to interact with or manipulate the DOM, as it avoids errors that can occur if the script runs before the DOM is fully loaded.
 
-![image](https://github.com/user-attachments/assets/25f02b29-4dac-45ee-a004-1660e2375564)
 
 
 
