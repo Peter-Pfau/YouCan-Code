@@ -19,7 +19,7 @@ index.html
 
 In the HTML file, we have a button with the ID `myButton`. When this button is clicked, it will trigger an event listener that is defined in the `script.js`.
 
-```
+```JavaScript
 script.js
 ----------
 document.addEventListener('DOMContentLoaded', (event) => {
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 In the JavaScript file `script.js`, we add an event listener to the button. When the button is clicked, a `POST` request is sent to the `/button-clicked` route on the server. The request contains a simple JSON payload.
 
-```
+```JavaScript
 server.js (Node.js with Express)
 --------------------------
 const express = require('express');
