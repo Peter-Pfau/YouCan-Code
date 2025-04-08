@@ -1,7 +1,7 @@
 # Fetch Request Diagaram Flow
 ![image](https://github.com/user-attachments/assets/fcb20116-f8f1-41bb-8bdb-1c70d46d1387)
 
-```
+```HTML
 index.html
 -----------
 <!DOCTYPE html>
